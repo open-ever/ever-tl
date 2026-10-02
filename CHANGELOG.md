@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## Version 0.4.34
+
+- Switched `ever-block` to `open-ever/ever-block` pinned at tag 1.11.23
+
 ## Version 0.4.33
 
 - Switched `common` submodule to `open-ever/common`
